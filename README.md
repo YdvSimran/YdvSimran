@@ -60,8 +60,8 @@ I have a diverse set of technical skills and expertise. Here are some of them:
   - Strong analytical and problem-solving skills.
 
 ## LeetCode
-You can find me on LeetCode under the username [simran_yadav0705].
-🧑‍💻 [![LeetCode](https://img.shields.io/badge/LeetCode-1550-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/simran_yadav0705/)
+You can find me on LeetCode under the username [simran_yadav640].
+🧑‍💻 [![LeetCode](https://img.shields.io/badge/LeetCode-1550-brightgreen?style=for-the-badge&logo=leetcode)](https://leetcode.com/simran_yadav640/)
 
 ## 📊 Contributions Summary
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YdvSimran&layout=compact&hide_border=true)](https://github.com/YdvSimran)
