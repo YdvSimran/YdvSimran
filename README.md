@@ -2,7 +2,7 @@
 
 
 ## About Me
-Hello there! 👋 I'm Simran Yadav, currently pursuing B.Tech in Computer Science and Engineering (CSE) at IPEC, Ghaziabad. I am a part of the 2K25 batch and currently in my 3rd year.
+Hello there! 👋 I'm Simran Yadav, currently pursuing B.Tech in Computer Science and Engineering (CSE) at IPEC, Ghaziabad. I am a part of the 2K25 batch and currently in my final year.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YdvSimran&color=brightgreen)
 ### 🚀 Web Developer | 💡 Machine Learning Enthusiast 
